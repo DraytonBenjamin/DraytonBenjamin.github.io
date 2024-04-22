@@ -1,0 +1,59 @@
+/*step 2 */
+	body {background-color:#99badd; } 
+
+    body { font-family: Arial}
+       
+        
+        
+	 p {font-size: 25px;
+        	color :white;
+        	font-family: Arial;
+        	padding: 20px;}
+/* step 4a */
+	h1, h2, h3, h4, h5 {
+		color: white;
+		padding:15px;
+	
+	}
+ 
+/* step 4c */
+	 footer {
+ 		background-color:  #bc8e43;
+	}
+
+/* 4d */
+	footer { font-size: 1em;}
+
+/* 4e */
+	nav {background-color: black;
+        	padding: 45px;
+        	font-size:30px;
+        	font-family: Arial}
+
+	 a:link  {
+	color: white;
+	
+	}
+
+nav a:visited {
+color: white;
+}
+
+div a:link  {
+	color: white;
+	font-size:40px;}
+
+nav a:visited {
+color: white;
+}
+
+
+
+
+img {
+width: 400px;
+height: 130px;}
+
+a:visited {
+color: white;}
+
